@@ -1,0 +1,20 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- < -->
+  <text x="4" y="68" font-family="'Fira Code', monospace" font-size="52" font-weight="500"
+    fill="#00f5ff" filter="url(#glow)" opacity="0.95">&lt;</text>
+
+  <!-- / -->
+  <text x="34" y="68" font-family="'Fira Code', monospace" font-size="52" font-weight="300"
+    fill="#ffffff" opacity="0.6">/</text>
+
+  <!-- > -->
+  <text x="55" y="68" font-family="'Fira Code', monospace" font-size="52" font-weight="500"
+    fill="#00f5ff" filter="url(#glow)" opacity="0.95">&gt;</text>
+</svg>
