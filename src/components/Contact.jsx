@@ -97,7 +97,7 @@ export default function Contact() {
 
       {/* WhatsApp CTA */}
       <a
-        href="https://wa.me/201069880640?text=Hi%20Ahmed!%20I%20saw%20your%20portfolio%20and%20I'd%20like%20to%20work%20with%20you."
+        href="https://wa.me/201069880640// WhatsApp message?text=Hi%20Mohamed!%20I%20saw%20your%20portfolio..."
         target="_blank"
         rel="noreferrer"
         className="flex items-center justify-center gap-4 w-full py-5 rounded-2xl text-white font-bold text-lg mb-3 no-underline transition-all duration-300 hover:-translate-y-1"
