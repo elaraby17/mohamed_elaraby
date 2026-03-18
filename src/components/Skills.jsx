@@ -5,7 +5,7 @@ const skillCategories = [
   },
   {
     title: "Backend",
-    skills: ["Laravel", "PHP", "REST API", "MySQL", "Eloquent ORM"],
+    skills: ["Laravel", "PHP", "REST API", "MySQL"],
   },
   {
     title: "Tools & DevOps",
