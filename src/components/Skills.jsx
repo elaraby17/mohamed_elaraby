@@ -1,15 +1,15 @@
 const skillCategories = [
   {
     title: "Frontend",
-    skills: ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Redux", "Framer Motion", "HTML5", "CSS3"],
+    skills: ["React.js", "Next.js", "javaScript", "Tailwind CSS", "HTML5", "CSS3"],
   },
   {
     title: "Backend",
-    skills: ["Laravel", "PHP", "Node.js", "REST API", "MySQL", "PostgreSQL", "Redis", "Eloquent ORM"],
+    skills: ["Laravel", "PHP", "REST API", "MySQL", "Eloquent ORM"],
   },
   {
     title: "Tools & DevOps",
-    skills: ["Git", "GitHub", "Docker", "Linux", "Figma", "Postman", "VS Code"],
+    skills: ["Git", "GitHub",  "Figma", "Postman", "VS Code"],
   },
 ];
 
